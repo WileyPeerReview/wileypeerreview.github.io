@@ -4,258 +4,258 @@ var dataset = [
     {
         "key": "Less than 1",
         "values": [{
-                x: "I enjoy seeing work ahead of publication",
+                x: "Seeing work ahead of publication",
                 y: 3.6
   },
             {
-                x: "Peer reviewing helps to improve my own writing skills",
+                x: "Improving own writing skills",
                 y: 4.1
   },
             {
-                x: "Peer reviewing allows me to be an active participant in my research community",
+                x: "Active participation in research community",
                 y: 4.3
   },
             {
-                x: "Reviewing helps to develop my personal reputation and career progression",
+                x: "Develops personal reputation & career progression",
                 y: 3.9
   },
             {
-                x: "It is expected that researchers undertake peer review",
+                x: "Expectation that researchers undertake review",
                 y: 3.7
   },
             {
-                x: "I was recommended to become a peer reviewer by my PI/Supervisor",
+                x: "PI/Supervisor recommendation",
                 y: 2.9
   },
             {
-                x: "It is important to reciprocate the peer review that other members of my community undertake for my own work",
+                x: "Reciprocation of peer review received",
                 y: 3.8
   },
             {
-                x: "Peer reviewing helps to build relationships with particular journals and journal editors",
+                x: "Builds relationships with particular journals/editors",
                 y: 3.9
   },
             {
-                x: "It increases the likelihood of my future papers being accepted",
+                x: "Increases likelihood of future papers being accepted",
                 y: 2.9
   },
             {
-                x: "I gain professional recognition or credit from reviewing",
+                x: "Professional recognition or credit gained",
                 y: 3.6
   }],
 },
     {
         "key": "1 to 2",
         "values": [{
-                x: "I enjoy seeing work ahead of publication",
+                x: "Seeing work ahead of publication",
                 y: 3.6
   },
             {
-                x: "Peer reviewing helps to improve my own writing skills",
+                x: "Improving own writing skills",
                 y: 3.9
   },
             {
-                x: "Peer reviewing allows me to be an active participant in my research community",
+                x: "Active participation in research community",
                 y: 4.3
   },
             {
-                x: "Reviewing helps to develop my personal reputation and career progression",
+                x: "Develops personal reputation & career progression",
                 y: 3.8
   },
             {
-                x: "It is expected that researchers undertake peer review",
+                x: "Expectation that researchers undertake review",
                 y: 3.8
   },
             {
-                x: "I was recommended to become a peer reviewer by my PI/Supervisor",
+                x: "PI/Supervisor recommendation",
                 y: 2.8
   },
             {
-                x: "It is important to reciprocate the peer review that other members of my community undertake for my own work",
+                x: "Reciprocation of peer review received",
                 y: 3.8
   },
             {
-                x: "Peer reviewing helps to build relationships with particular journals and journal editors",
+                x: "Builds relationships with particular journals/editors",
                 y: 3.7
   },
             {
-                x: "It increases the likelihood of my future papers being accepted",
+                x: "Increases likelihood of future papers being accepted",
                 y: 2.8
   },
             {
-                x: "I gain professional recognition or credit from reviewing",
+                x: "Professional recognition or credit gained",
                 y: 3.4
   }],
 },
     {
         "key": "3 to 5",
         "values": [{
-                x: "I enjoy seeing work ahead of publication",
+                x: "Seeing work ahead of publication",
                 y: 3.6
   },
             {
-                x: "Peer reviewing helps to improve my own writing skills",
+                x: "Improving own writing skills",
                 y: 3.8
   },
             {
-                x: "Peer reviewing allows me to be an active participant in my research community",
+                x: "Active participation in research community",
                 y: 4.2
   },
             {
-                x: "Reviewing helps to develop my personal reputation and career progression",
+                x: "Develops personal reputation & career progression",
                 y: 3.6
   },
             {
-                x: "It is expected that researchers undertake peer review",
+                x: "Expectation that researchers undertake review",
                 y: 3.7
   },
             {
-                x: "I was recommended to become a peer reviewer by my PI/Supervisor",
+                x: "PI/Supervisor recommendation",
                 y: 2.6
   },
             {
-                x: "It is important to reciprocate the peer review that other members of my community undertake for my own work",
+                x: "Reciprocation of peer review received",
                 y: 3.8
   },
             {
-                x: "Peer reviewing helps to build relationships with particular journals and journal editors",
+                x: "Builds relationships with particular journals/editors",
                 y: 3.5
   },
             {
-                x: "It increases the likelihood of my future papers being accepted",
+                x: "Increases likelihood of future papers being accepted",
                 y: 2.7
   },
             {
-                x: "I gain professional recognition or credit from reviewing",
+                x: "Professional recognition or credit gained",
                 y: 3.4
   }],
 },
     {
         "key": "6 to 10",
         "values": [{
-                x: "I enjoy seeing work ahead of publication",
+                x: "Seeing work ahead of publication",
                 y: 3.5
   },
             {
-                x: "Peer reviewing helps to improve my own writing skills",
+                x: "Improving own writing skills",
                 y: 3.6
   },
             {
-                x: "Peer reviewing allows me to be an active participant in my research community",
+                x: "Active participation in research community",
                 y: 4.2
   },
             {
-                x: "Reviewing helps to develop my personal reputation and career progression",
+                x: "Develops personal reputation & career progression",
                 y: 3.5
   },
             {
-                x: "It is expected that researchers undertake peer review",
+                x: "Expectation that researchers undertake review",
                 y: 3.8
   },
             {
-                x: "I was recommended to become a peer reviewer by my PI/Supervisor",
+                x: "PI/Supervisor recommendation",
                 y: 2.5
   },
             {
-                x: "It is important to reciprocate the peer review that other members of my community undertake for my own work",
+                x: "Reciprocation of peer review received",
                 y: 4.0
   },
             {
-                x: "Peer reviewing helps to build relationships with particular journals and journal editors",
+                x: "Builds relationships with particular journals/editors",
                 y: 3.4
   },
             {
-                x: "It increases the likelihood of my future papers being accepted",
+                x: "Increases likelihood of future papers being accepted",
                 y: 2.6
   },
             {
-                x: "I gain professional recognition or credit from reviewing",
+                x: "Professional recognition or credit gained",
                 y: 3.3
   }],
 },
     {
         "key": "11 to 15",
         "values": [{
-                x: "I enjoy seeing work ahead of publication",
+                x: "Seeing work ahead of publication",
                 y: 3.5
   },
             {
-                x: "Peer reviewing helps to improve my own writing skills",
+                x: "Improving own writing skills",
                 y: 3.4
   },
             {
-                x: "Peer reviewing allows me to be an active participant in my research community",
+                x: "Active participation in research community",
                 y: 4.1
   },
             {
-                x: "Reviewing helps to develop my personal reputation and career progression",
+                x: "Develops personal reputation & career progression",
                 y: 3.3
   },
             {
-                x: "It is expected that researchers undertake peer review",
+                x: "Expectation that researchers undertake review",
                 y: 3.8
   },
             {
-                x: "I was recommended to become a peer reviewer by my PI/Supervisor",
+                x: "PI/Supervisor recommendation",
                 y: 2.3
   },
             {
-                x: "It is important to reciprocate the peer review that other members of my community undertake for my own work",
+                x: "Reciprocation of peer review received",
                 y: 4.0
   },
             {
-                x: "Peer reviewing helps to build relationships with particular journals and journal editors",
+                x: "Builds relationships with particular journals/editors",
                 y: 3.4
   },
             {
-                x: "It increases the likelihood of my future papers being accepted",
+                x: "Increases likelihood of future papers being accepted",
                 y: 2.5
   },
             {
-                x: "I gain professional recognition or credit from reviewing",
+                x: "Professional recognition or credit gained",
                 y: 3.1
   }],
 },
     {
         "key": "More than 15",
         "values": [{
-                x: "I enjoy seeing work ahead of publication",
+                x: "Seeing work ahead of publication",
                 y: 3.4
   },
             {
-                x: "Peer reviewing helps to improve my own writing skills",
+                x: "Improving own writing skills",
                 y: 3.1
   },
             {
-                x: "Peer reviewing allows me to be an active participant in my research community",
+                x: "Active participation in research community",
                 y: 4.1
   },
             {
-                x: "Reviewing helps to develop my personal reputation and career progression",
+                x: "Develops personal reputation & career progression",
                 y: 3.0
   },
             {
-                x: "It is expected that researchers undertake peer review",
+                x: "Expectation that researchers undertake review",
                 y: 4.0
   },
             {
-                x: "I was recommended to become a peer reviewer by my PI/Supervisor",
+                x: "PI/Supervisor recommendation",
                 y: 2.1
   },
             {
-                x: "It is important to reciprocate the peer review that other members of my community undertake for my own work",
+                x: "Reciprocation of peer review received",
                 y: 4.0
   },
             {
-                x: "Peer reviewing helps to build relationships with particular journals and journal editors",
+                x: "Builds relationships with particular journals/editors",
                 y: 3.3
   },
             {
-                x: "It increases the likelihood of my future papers being accepted",
+                x: "Increases likelihood of future papers being accepted",
                 y: 2.2
   },
             {
-                x: "I gain professional recognition or credit from reviewing",
+                x: "Professional recognition or credit gained",
                 y: 2.9
   }],
 }
@@ -273,7 +273,7 @@ nv.addGraph(function () {
             top: 30,
             right: 20,
             bottom: 0,
-            left: 400
+            left: 330
         });
 
     chart.legend.vers('furious');

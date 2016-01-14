@@ -13,15 +13,15 @@ var dataset = [
                 y: 94
   },
             {
-                x: "Acknowledgmnt in jnl",
+                x: "Acknowledgement in the journal",
                 y: 524
   },
             {
-                x: "Acknowledgmnt on jnl website",
+                x: "Acknowledgement on journal's website",
                 y: 468
   },
             {
-                x: "Thank you note from editor",
+                x: "Thankyou note from editor",
                 y: 396
   },
             {
@@ -41,7 +41,7 @@ var dataset = [
                 y: 195
   },
             {
-                x: "Cash payment ",
+                x: "Cash payment",
                 y: 282
   },
             {
@@ -53,7 +53,7 @@ var dataset = [
                 y: 223
   },
             {
-                x: "Discount/waiver on OA fees",
+                x: "Discount/waiver on Open Access fees",
                 y: 360
   },
             {
@@ -61,11 +61,11 @@ var dataset = [
                 y: 318
   },
             {
-                x: "Reviewer web badges ",
+                x: "Reviewer web badges",
                 y: 222
   },
             {
-                x: "Post-pub access to papers reviewed ",
+                x: "Post-pub access to papers reviewed",
                 y: 303
   },
             {
@@ -77,7 +77,7 @@ var dataset = [
                 y: 341
   },
             {
-                x: "'Top reviewer' web badges ",
+                x: "'Top reviewer' web badges",
                 y: 308
   },
             {
@@ -113,15 +113,15 @@ var dataset = [
                 y: 48
   },
             {
-                x: "Acknowledgmnt in jnl",
+                x: "Acknowledgement in the journal",
                 y: 204
   },
             {
-                x: "Acknowledgmnt on jnl website",
+                x: "Acknowledgement on journal's website",
                 y: 204
   },
             {
-                x: "Thank you note from editor",
+                x: "Thankyou note from editor",
                 y: 266
   },
             {
@@ -141,7 +141,7 @@ var dataset = [
                 y: 87
   },
             {
-                x: "Cash payment ",
+                x: "Cash payment",
                 y: 103
   },
             {
@@ -153,7 +153,7 @@ var dataset = [
                 y: 86
   },
             {
-                x: "Discount/waiver on OA fees",
+                x: "Discount/waiver on Open Access fees",
                 y: 143
   },
             {
@@ -161,11 +161,11 @@ var dataset = [
                 y: 152
   },
             {
-                x: "Reviewer web badges ",
+                x: "Reviewer web badges",
                 y: 122
   },
             {
-                x: "Post-pub access to papers reviewed ",
+                x: "Post-pub access to papers reviewed",
                 y: 183
   },
             {
@@ -177,7 +177,7 @@ var dataset = [
                 y: 300
   },
             {
-                x: "'Top reviewer' web badges ",
+                x: "'Top reviewer' web badges",
                 y: 216
   },
             {
@@ -213,15 +213,15 @@ var dataset = [
                 y: 29
   },
             {
-                x: "Acknowledgmnt in jnl",
+                x: "Acknowledgement in the journal",
                 y: 245
   },
             {
-                x: "Acknowledgmnt on jnl website",
+                x: "Acknowledgement on journal's website",
                 y: 206
   },
             {
-                x: "Thank you note from editor",
+                x: "Thankyou note from editor",
                 y: 156
   },
             {
@@ -241,7 +241,7 @@ var dataset = [
                 y: 105
   },
             {
-                x: "Cash payment ",
+                x: "Cash payment",
                 y: 158
   },
             {
@@ -253,7 +253,7 @@ var dataset = [
                 y: 97
   },
             {
-                x: "Discount/waiver on OA fees",
+                x: "Discount/waiver on Open Access fees",
                 y: 154
   },
             {
@@ -261,11 +261,11 @@ var dataset = [
                 y: 122
   },
             {
-                x: "Reviewer web badges ",
+                x: "Reviewer web badges",
                 y: 96
   },
             {
-                x: "Post-pub access to papers reviewed ",
+                x: "Post-pub access to papers reviewed",
                 y: 110
   },
             {
@@ -277,7 +277,7 @@ var dataset = [
                 y: 148
   },
             {
-                x: "'Top reviewer' web badges ",
+                x: "'Top reviewer' web badges",
                 y: 110
   },
             {
@@ -313,15 +313,15 @@ var dataset = [
                 y: 21
   },
             {
-                x: "Acknowledgmnt in jnl",
+                x: "Acknowledgement in the journal",
                 y: 105
   },
             {
-                x: "Acknowledgmnt on jnl website",
+                x: "Acknowledgement on journal's website",
                 y: 96
   },
             {
-                x: "Thank you note from editor",
+                x: "Thankyou note from editor",
                 y: 111
   },
             {
@@ -341,7 +341,7 @@ var dataset = [
                 y: 44
   },
             {
-                x: "Cash payment ",
+                x: "Cash payment",
                 y: 60
   },
             {
@@ -353,7 +353,7 @@ var dataset = [
                 y: 56
   },
             {
-                x: "Discount/waiver on OA fees",
+                x: "Discount/waiver on Open Access fees",
                 y: 72
   },
             {
@@ -361,11 +361,11 @@ var dataset = [
                 y: 82
   },
             {
-                x: "Reviewer web badges ",
+                x: "Reviewer web badges",
                 y: 54
   },
             {
-                x: "Post-pub access to papers reviewed ",
+                x: "Post-pub access to papers reviewed",
                 y: 85
   },
             {
@@ -377,7 +377,7 @@ var dataset = [
                 y: 72
   },
             {
-                x: "'Top reviewer' web badges ",
+                x: "'Top reviewer' web badges",
                 y: 96
   },
             {
@@ -413,15 +413,15 @@ var dataset = [
                 y: 16
   },
             {
-                x: "Acknowledgmnt in jnl",
+                x: "Acknowledgement in the journal",
                 y: 105
   },
             {
-                x: "Acknowledgmnt on jnl website",
+                x: "Acknowledgement on journal's website",
                 y: 94
   },
             {
-                x: "Thank you note from editor",
+                x: "Thankyou note from editor",
                 y: 73
   },
             {
@@ -441,7 +441,7 @@ var dataset = [
                 y: 36
   },
             {
-                x: "Cash payment ",
+                x: "Cash payment",
                 y: 39
   },
             {
@@ -453,7 +453,7 @@ var dataset = [
                 y: 34
   },
             {
-                x: "Discount/waiver on OA fees",
+                x: "Discount/waiver on Open Access fees",
                 y: 87
   },
             {
@@ -461,11 +461,11 @@ var dataset = [
                 y: 47
   },
             {
-                x: "Reviewer web badges ",
+                x: "Reviewer web badges",
                 y: 51
   },
             {
-                x: "Post-pub access to papers reviewed ",
+                x: "Post-pub access to papers reviewed",
                 y: 44
   },
             {
@@ -477,7 +477,7 @@ var dataset = [
                 y: 53
   },
             {
-                x: "'Top reviewer' web badges ",
+                x: "'Top reviewer' web badges",
                 y: 67
   },
             {
@@ -513,15 +513,15 @@ var dataset = [
                 y: 21
   },
             {
-                x: "Acknowledgmnt in jnl",
+                x: "Acknowledgement in the journal",
                 y: 61
   },
             {
-                x: "Acknowledgmnt on jnl website",
+                x: "Acknowledgement on journal's website",
                 y: 80
   },
             {
-                x: "Thank you note from editor",
+                x: "Thankyou note from editor",
                 y: 82
   },
             {
@@ -541,7 +541,7 @@ var dataset = [
                 y: 39
   },
             {
-                x: "Cash payment ",
+                x: "Cash payment",
                 y: 51
   },
             {
@@ -553,7 +553,7 @@ var dataset = [
                 y: 30
   },
             {
-                x: "Discount/waiver on OA fees",
+                x: "Discount/waiver on Open Access fees",
                 y: 47
   },
             {
@@ -561,11 +561,11 @@ var dataset = [
                 y: 34
   },
             {
-                x: "Reviewer web badges ",
+                x: "Reviewer web badges",
                 y: 37
   },
             {
-                x: "Post-pub access to papers reviewed ",
+                x: "Post-pub access to papers reviewed",
                 y: 56
   },
             {
@@ -577,7 +577,7 @@ var dataset = [
                 y: 87
   },
             {
-                x: "'Top reviewer' web badges ",
+                x: "'Top reviewer' web badges",
                 y: 75
   },
             {
@@ -625,7 +625,7 @@ nv.addGraph(function () {
 
     chart.yAxis
         .tickFormat(d3.format(',1f'))
-        .axisLabel('Mean response');
+        .axisLabel('Responses');
 
     d3.select('#chart1 svg')
         .datum(dataset)

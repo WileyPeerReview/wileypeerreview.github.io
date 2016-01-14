@@ -71,39 +71,14 @@
             <!--question header-->
             <h4>How did your first review opportunity arrive?</h4>
             <hr>
-            <h6>According to years of experience</h6>
-            
-            <!--chart controls-->
-            <div class="q5-radio-group">
-                <span>Years of experience:</span>
-                <span class="radio q5-radio is-active button" value="0">
-                    All
-                </span>
-                <span class="radio q5-radio button button--teal-dark" value="1">
-                    Less than 1
-                </span>
-                <span class="radio q5-radio button button--blue" value="2">
-                    1 to 2
-                </span>
-                <span class="radio q5-radio button button--green" value="3">
-                    3 to 5
-                </span>
-                <span class="radio q5-radio button button--teal" value="4">
-                    6 to 10
-                </span>
-                <span class="radio q5-radio button button--red" value="5">
-                    11 to 15
-                </span>
-                <span class="radio q5-radio button button--purple" value="6">
-                    More than 15
-                </span>
-            </div>
+            <h6 class="text-right">According to years of experience</h6>
             
             <!--chart div-->
-            <div id="q5-chart"></div>
-            
+            <div id="chart1">
+                <svg style="height: 650px"></svg>
+            </div>
             <!--scripts-->
-            <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+            <script src="/scripts/nvd3/nv.d3.js"></script>
             <script src="/scripts/q5/q5.js"></script>
             
             <!--question footer info and controls-->

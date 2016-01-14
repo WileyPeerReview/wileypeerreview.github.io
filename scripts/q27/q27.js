@@ -4,19 +4,19 @@ var datasetTotal = [
     {
         "set": "Total",
         "port": "yes",
-        "octetTotalCount": 1120
+        "octetTotalCount": 1860
 }, {
         "set": "Total",
         "port": "no",
-        "octetTotalCount": 341
+        "octetTotalCount": 564
 }
 ];
 
-var datasetUnder30 = [
+var datasetLessThan1 = [
     {
         "set": "Under 30",
         "port": "yes",
-        "octetTotalCount": 98
+        "octetTotalCount": 118
 }, {
         "set": "Under 30",
         "port": "no",
@@ -24,75 +24,63 @@ var datasetUnder30 = [
 }
 ];
 
-var dataset31To40 = [
+var dataset1To2 = [
     {
         "set": "31 to 40",
         "port": "yes",
-        "octetTotalCount": 447
+        "octetTotalCount": 334
 }, {
         "set": "31 to 40",
         "port": "no",
-        "octetTotalCount": 68
+        "octetTotalCount": 28
 }
 ];
 
-var dataset41To50 = [
+var dataset3To5 = [
     {
         "set": "41 to 50",
         "port": "yes",
-        "octetTotalCount": 301
+        "octetTotalCount": 620
 }, {
         "set": "41 to 50",
         "port": "no",
-        "octetTotalCount": 89
+        "octetTotalCount": 100
 }
 ];
 
-var dataset51To60 = [
+var dataset6To10 = [
     {
         "set": "51 to 60",
         "port": "yes",
-        "octetTotalCount": 180
+        "octetTotalCount": 446
 }, {
         "set": "51 to 60",
         "port": "no",
-        "octetTotalCount": 87
+        "octetTotalCount": 146
 }
 ];
 
-var dataset61To70 = [
+var dataset11To15 = [
     {
         "set": "61 to 70",
         "port": "yes",
-        "octetTotalCount": 72
+        "octetTotalCount": 142
 }, {
         "set": "61 to 70",
         "port": "no",
-        "octetTotalCount": 64
+        "octetTotalCount": 79
 }
 ];
 
-var datasetOver70 = [
+var datasetMoreThan15 = [
     {
         "set": "Over 70",
         "port": "yes",
-        "octetTotalCount": 12
+        "octetTotalCount": 200
 }, {
         "set": "Over 70",
         "port": "no",
-        "octetTotalCount": 20
-}
-];
-
-var datasetNA = [
-    {
-        "set": "No answer",
-        "port": "yes",
-        "octetTotalCount": 10
-}, {
-        "set": "No answer",
-        "port": "no",
-        "octetTotalCount": 5
+        "octetTotalCount": 203
 }
 ];
 

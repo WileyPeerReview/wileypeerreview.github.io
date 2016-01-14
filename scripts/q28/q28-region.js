@@ -13,7 +13,7 @@ var dataset = [
     ,y:102
   },
   {
-     x:"Handling plagiarism issues (e.g. how to identify potential plagiarism, what to do if you suspect plagiarism, etc.)"
+     x:"Handling plagiarism issues"
     ,y:289
   },
   {
@@ -57,7 +57,7 @@ var dataset = [
     ,y:159
   },
   {
-     x:"Understanding/checking against reporting standards guidelines"
+     x:"Using reporting standards guidelines"
     ,y:85
   }],
 },
@@ -73,7 +73,7 @@ var dataset = [
     ,y:58
   },
   {
-     x:"Handling plagiarism issues (e.g. how to identify potential plagiarism, what to do if you suspect plagiarism, etc.)"
+     x:"Handling plagiarism issues"
     ,y:145
   },
   {
@@ -117,7 +117,7 @@ var dataset = [
     ,y:60
   },
   {
-     x:"Understanding/checking against reporting standards guidelines"
+     x:"Using reporting standards guidelines"
     ,y:57
   }],
 },
@@ -133,7 +133,7 @@ var dataset = [
     ,y:54
   },
   {
-     x:"Handling plagiarism issues (e.g. how to identify potential plagiarism, what to do if you suspect plagiarism, etc.)"
+     x:"Handling plagiarism issues"
     ,y:92
   },
   {
@@ -177,7 +177,7 @@ var dataset = [
     ,y:84
   },
   {
-     x:"Understanding/checking against reporting standards guidelines"
+     x:"Using reporting standards guidelines"
     ,y:48
   }],
 },
@@ -193,7 +193,7 @@ var dataset = [
     ,y:18
   },
   {
-     x:"Handling plagiarism issues (e.g. how to identify potential plagiarism, what to do if you suspect plagiarism, etc.)"
+     x:"Handling plagiarism issues"
     ,y:92
   },
   {
@@ -237,7 +237,7 @@ var dataset = [
     ,y:22
   },
   {
-     x:"Understanding/checking against reporting standards guidelines"
+     x:"Using reporting standards guidelines"
     ,y:16
   }],
 },
@@ -253,7 +253,7 @@ var dataset = [
     ,y:18
   },
   {
-     x:"Handling plagiarism issues (e.g. how to identify potential plagiarism, what to do if you suspect plagiarism, etc.)"
+     x:"Handling plagiarism issues"
     ,y:40
   },
   {
@@ -297,7 +297,7 @@ var dataset = [
     ,y:30
   },
   {
-     x:"Understanding/checking against reporting standards guidelines"
+     x:"Using reporting standards guidelines"
     ,y:25
   }],
 },
@@ -313,7 +313,7 @@ var dataset = [
     ,y:20
   },
   {
-     x:"Handling plagiarism issues (e.g. how to identify potential plagiarism, what to do if you suspect plagiarism, etc.)"
+     x:"Handling plagiarism issues"
     ,y:58
   },
   {
@@ -357,7 +357,7 @@ var dataset = [
     ,y:27
   },
   {
-     x:"Understanding/checking against reporting standards guidelines"
+     x:"Using reporting standards guidelines"
     ,y:24
   }],
 }
@@ -375,7 +375,7 @@ nv.addGraph(function () {
             top: 30,
             right: 20,
             bottom: 0,
-            left: 400
+            left: 280
         });
 
     chart.legend.vers('furious');
@@ -385,7 +385,7 @@ nv.addGraph(function () {
 
     chart.yAxis
         .tickFormat(d3.format(',1f'))
-        .axisLabel('Mean response');
+        .axisLabel('Responses');
 
     d3.select('#chart1 svg')
         .datum(dataset)

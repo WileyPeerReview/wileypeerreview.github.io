@@ -57,7 +57,7 @@ var dataset = [
     ,y:22
   },
   {
-     x:"Understanding/checking against reporting standards guidelines"
+     x:"Using reporting standards guidelines"
     ,y:20
   }],
 },
@@ -117,7 +117,7 @@ var dataset = [
     ,y:59
   },
   {
-     x:"Understanding/checking against reporting standards guidelines"
+     x:"Using reporting standards guidelines"
     ,y:50
   }],
 },
@@ -177,7 +177,7 @@ var dataset = [
     ,y:129
   },
   {
-     x:"Understanding/checking against reporting standards guidelines"
+     x:"Using reporting standards guidelines"
     ,y:97
   }],
 },
@@ -237,7 +237,7 @@ var dataset = [
     ,y:96
   },
   {
-     x:"Understanding/checking against reporting standards guidelines"
+     x:"Using reporting standards guidelines"
     ,y:52
   }],
 },
@@ -297,7 +297,7 @@ var dataset = [
     ,y:27
   },
   {
-     x:"Understanding/checking against reporting standards guidelines"
+     x:"Using reporting standards guidelines"
     ,y:16
   }],
 },
@@ -357,7 +357,7 @@ var dataset = [
     ,y:47
   },
   {
-     x:"Understanding/checking against reporting standards guidelines"
+     x:"Using reporting standards guidelines"
     ,y:20
   }],
 }
@@ -375,7 +375,7 @@ nv.addGraph(function () {
             top: 30,
             right: 20,
             bottom: 0,
-            left: 400
+            left: 280
         });
 
     chart.legend.vers('furious');
@@ -385,7 +385,7 @@ nv.addGraph(function () {
 
     chart.yAxis
         .tickFormat(d3.format(',1f'))
-        .axisLabel('Mean response');
+        .axisLabel('Responses');
 
     d3.select('#chart1 svg')
         .datum(dataset)

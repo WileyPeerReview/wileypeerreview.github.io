@@ -9,7 +9,7 @@ var dataset = [
                 y: 309
   },
             {
-                x: "Signed report being publicized with the paper",
+                x: "Signed report publicized with paper",
                 y: 125
   },
             {
@@ -17,11 +17,11 @@ var dataset = [
                 y: 714
   },
             {
-                x: "Acknowledgement on the journal's website",
+                x: "Acknowledgement on journal's website",
                 y: 671
   },
             {
-                x: "A personal thank you note from the editor",
+                x: "Thankyou note from editor",
                 y: 625
   },
             {
@@ -29,11 +29,11 @@ var dataset = [
                 y: 259
   },
             {
-                x: "Credit automatically awarded on a 3rd party site",
+                x: "Credit on 3rd party site",
                 y: 348
   },
             {
-                x: "A certificate from the journal to acknowledge review effort",
+                x: "Certificate from  journal",
                 y: 865
   },
             {
@@ -41,11 +41,11 @@ var dataset = [
                 y: 303
   },
             {
-                x: "Cash payment by the journal",
+                x: "Cash payment",
                 y: 419
   },
             {
-                x: "Payment or credits by independent/portable peer review services",
+                x: "Payment/credit by 3rd party review service",
                 y: 150
   },
             {
@@ -57,15 +57,15 @@ var dataset = [
                 y: 519
   },
             {
-                x: "Discount/waiver on color or other publication charges",
+                x: "Discount/waiver on publication charges",
                 y: 419
   },
             {
-                x: "Reviewer web badges that you could include on your LinkedIn site/online resume, etc.",
+                x: "Reviewer web badges ",
                 y: 337
   },
             {
-                x: "Access to papers which I have reviewed, if accepted and published",
+                x: "Post-pub access to papers reviewed",
                 y: 440
   },
             {
@@ -73,31 +73,31 @@ var dataset = [
                 y: 724
   },
             {
-                x: "Reviewer of the year awards from the journal",
+                x: "Reviewer of the year award",
                 y: 592
   },
             {
-                x: "'Top reviewer' badges that you could include on your LinkedIn site/online resume, etc.",
+                x: "'Top reviewer' web badges",
                 y: 500
   },
             {
-                x: "Feedback from the journal on the usefulness/quality of your review",
+                x: "Ed. Feedback on quality of review",
                 y: 894
   },
             {
-                x: "Information from the journal on the decision outcome of the paper that you reviewed",
+                x: "Info on final decision for reviewed paper",
                 y: 922
   },
             {
-                x: "Visibility of other reviewers comments/reviewer reports",
+                x: "Visibility of other reviewer reports",
                 y: 703
   },
             {
-                x: "Metrics related to your review history",
+                x: "Review history metrics",
                 y: 414
   },
             {
-                x: "Post-publication metrics related to the articles you have reviewed",
+                x: "Post-pub metrics for reviewed articles",
                 y: 392
   }],
 },
@@ -109,7 +109,7 @@ var dataset = [
                 y: 110
   },
             {
-                x: "Signed report being publicized with the paper",
+                x: "Signed report publicized with paper",
                 y: 50
   },
             {
@@ -117,11 +117,11 @@ var dataset = [
                 y: 205
   },
             {
-                x: "Acknowledgement on the journal's website",
+                x: "Acknowledgement on journal's website",
                 y: 211
   },
             {
-                x: "A personal thank you note from the editor",
+                x: "Thankyou note from editor",
                 y: 200
   },
             {
@@ -129,11 +129,11 @@ var dataset = [
                 y: 80
   },
             {
-                x: "Credit automatically awarded on a 3rd party site",
+                x: "Credit on 3rd party site",
                 y: 107
   },
             {
-                x: "A certificate from the journal to acknowledge review effort",
+                x: "Certificate from  journal",
                 y: 291
   },
             {
@@ -141,11 +141,11 @@ var dataset = [
                 y: 102
   },
             {
-                x: "Cash payment by the journal",
+                x: "Cash payment",
                 y: 120
   },
             {
-                x: "Payment or credits by independent/portable peer review services",
+                x: "Payment/credit by 3rd party review service",
                 y: 55
   },
             {
@@ -157,15 +157,15 @@ var dataset = [
                 y: 146
   },
             {
-                x: "Discount/waiver on color or other publication charges",
+                x: "Discount/waiver on publication charges",
                 y: 167
   },
             {
-                x: "Reviewer web badges that you could include on your LinkedIn site/online resume, etc.",
+                x: "Reviewer web badges ",
                 y: 104
   },
             {
-                x: "Access to papers which I have reviewed, if accepted and published",
+                x: "Post-pub access to papers reviewed",
                 y: 140
   },
             {
@@ -173,31 +173,31 @@ var dataset = [
                 y: 258
   },
             {
-                x: "Reviewer of the year awards from the journal",
+                x: "Reviewer of the year award",
                 y: 185
   },
             {
-                x: "'Top reviewer' badges that you could include on your LinkedIn site/online resume, etc.",
+                x: "'Top reviewer' web badges",
                 y: 146
   },
             {
-                x: "Feedback from the journal on the usefulness/quality of your review",
+                x: "Ed. Feedback on quality of review",
                 y: 296
   },
             {
-                x: "Information from the journal on the decision outcome of the paper that you reviewed",
+                x: "Info on final decision for reviewed paper",
                 y: 277
   },
             {
-                x: "Visibility of other reviewers comments/reviewer reports",
+                x: "Visibility of other reviewer reports",
                 y: 214
   },
             {
-                x: "Metrics related to your review history",
+                x: "Review history metrics",
                 y: 122
   },
             {
-                x: "Post-publication metrics related to the articles you have reviewed",
+                x: "Post-pub metrics for reviewed articles",
                 y: 127
   }],
 },
@@ -209,7 +209,7 @@ var dataset = [
                 y: 73
   },
             {
-                x: "Signed report being publicized with the paper",
+                x: "Signed report publicized with paper",
                 y: 24
   },
             {
@@ -217,11 +217,11 @@ var dataset = [
                 y: 134
   },
             {
-                x: "Acknowledgement on the journal's website",
+                x: "Acknowledgement on journal's website",
                 y: 88
   },
             {
-                x: "A personal thank you note from the editor",
+                x: "Thankyou note from editor",
                 y: 79
   },
             {
@@ -229,11 +229,11 @@ var dataset = [
                 y: 89
   },
             {
-                x: "Credit automatically awarded on a 3rd party site",
+                x: "Credit on 3rd party site",
                 y: 55
   },
             {
-                x: "A certificate from the journal to acknowledge review effort",
+                x: "Certificate from  journal",
                 y: 137
   },
             {
@@ -241,11 +241,11 @@ var dataset = [
                 y: 27
   },
             {
-                x: "Cash payment by the journal",
+                x: "Cash payment",
                 y: 51
   },
             {
-                x: "Payment or credits by independent/portable peer review services",
+                x: "Payment/credit by 3rd party review service",
                 y: 25
   },
             {
@@ -257,15 +257,15 @@ var dataset = [
                 y: 73
   },
             {
-                x: "Discount/waiver on color or other publication charges",
+                x: "Discount/waiver on publication charges",
                 y: 62
   },
             {
-                x: "Reviewer web badges that you could include on your LinkedIn site/online resume, etc.",
+                x: "Reviewer web badges ",
                 y: 45
   },
             {
-                x: "Access to papers which I have reviewed, if accepted and published",
+                x: "Post-pub access to papers reviewed",
                 y: 70
   },
             {
@@ -273,31 +273,31 @@ var dataset = [
                 y: 135
   },
             {
-                x: "Reviewer of the year awards from the journal",
+                x: "Reviewer of the year award",
                 y: 69
   },
             {
-                x: "'Top reviewer' badges that you could include on your LinkedIn site/online resume, etc.",
+                x: "'Top reviewer' web badges",
                 y: 80
   },
             {
-                x: "Feedback from the journal on the usefulness/quality of your review",
+                x: "Ed. Feedback on quality of review",
                 y: 154
   },
             {
-                x: "Information from the journal on the decision outcome of the paper that you reviewed",
+                x: "Info on final decision for reviewed paper",
                 y: 154
   },
             {
-                x: "Visibility of other reviewers comments/reviewer reports",
+                x: "Visibility of other reviewer reports",
                 y: 128
   },
             {
-                x: "Metrics related to your review history",
+                x: "Review history metrics",
                 y: 74
   },
             {
-                x: "Post-publication metrics related to the articles you have reviewed",
+                x: "Post-pub metrics for reviewed articles",
                 y: 79
   }],
 },
@@ -309,7 +309,7 @@ var dataset = [
                 y: 20
   },
             {
-                x: "Signed report being publicized with the paper",
+                x: "Signed report publicized with paper",
                 y: 6
   },
             {
@@ -317,11 +317,11 @@ var dataset = [
                 y: 37
   },
             {
-                x: "Acknowledgement on the journal's website",
+                x: "Acknowledgement on journal's website",
                 y: 40
   },
             {
-                x: "A personal thank you note from the editor",
+                x: "Thankyou note from editor",
                 y: 29
   },
             {
@@ -329,11 +329,11 @@ var dataset = [
                 y: 12
   },
             {
-                x: "Credit automatically awarded on a 3rd party site",
+                x: "Credit on 3rd party site",
                 y: 20
   },
             {
-                x: "A certificate from the journal to acknowledge review effort",
+                x: "Certificate from  journal",
                 y: 47
   },
             {
@@ -341,11 +341,11 @@ var dataset = [
                 y: 15
   },
             {
-                x: "Cash payment by the journal",
+                x: "Cash payment",
                 y: 19
   },
             {
-                x: "Payment or credits by independent/portable peer review services",
+                x: "Payment/credit by 3rd party review service",
                 y: 9
   },
             {
@@ -357,15 +357,15 @@ var dataset = [
                 y: 29
   },
             {
-                x: "Discount/waiver on color or other publication charges",
+                x: "Discount/waiver on publication charges",
                 y: 24
   },
             {
-                x: "Reviewer web badges that you could include on your LinkedIn site/online resume, etc.",
+                x: "Reviewer web badges ",
                 y: 21
   },
             {
-                x: "Access to papers which I have reviewed, if accepted and published",
+                x: "Post-pub access to papers reviewed",
                 y: 18
   },
             {
@@ -373,31 +373,31 @@ var dataset = [
                 y: 42
   },
             {
-                x: "Reviewer of the year awards from the journal",
+                x: "Reviewer of the year award",
                 y: 32
   },
             {
-                x: "'Top reviewer' badges that you could include on your LinkedIn site/online resume, etc.",
+                x: "'Top reviewer' web badges",
                 y: 30
   },
             {
-                x: "Feedback from the journal on the usefulness/quality of your review",
+                x: "Ed. Feedback on quality of review",
                 y: 57
   },
             {
-                x: "Information from the journal on the decision outcome of the paper that you reviewed",
+                x: "Info on final decision for reviewed paper",
                 y: 60
   },
             {
-                x: "Visibility of other reviewers comments/reviewer reports",
+                x: "Visibility of other reviewer reports",
                 y: 37
   },
             {
-                x: "Metrics related to your review history",
+                x: "Review history metrics",
                 y: 23
   },
             {
-                x: "Post-publication metrics related to the articles you have reviewed",
+                x: "Post-pub metrics for reviewed articles",
                 y: 26
   }],
 },
@@ -409,7 +409,7 @@ var dataset = [
                 y: 38
   },
             {
-                x: "Signed report being publicized with the paper",
+                x: "Signed report publicized with paper",
                 y: 8
   },
             {
@@ -417,11 +417,11 @@ var dataset = [
                 y: 73
   },
             {
-                x: "Acknowledgement on the journal's website",
+                x: "Acknowledgement on journal's website",
                 y: 68
   },
             {
-                x: "A personal thank you note from the editor",
+                x: "Thankyou note from editor",
                 y: 70
   },
             {
@@ -429,11 +429,11 @@ var dataset = [
                 y: 32
   },
             {
-                x: "Credit automatically awarded on a 3rd party site",
+                x: "Credit on 3rd party site",
                 y: 32
   },
             {
-                x: "A certificate from the journal to acknowledge review effort",
+                x: "Certificate from  journal",
                 y: 81
   },
             {
@@ -441,11 +441,11 @@ var dataset = [
                 y: 31
   },
             {
-                x: "Cash payment by the journal",
+                x: "Cash payment",
                 y: 39
   },
             {
-                x: "Payment or credits by independent/portable peer review services",
+                x: "Payment/credit by 3rd party review service",
                 y: 15
   },
             {
@@ -457,15 +457,15 @@ var dataset = [
                 y: 46
   },
             {
-                x: "Discount/waiver on color or other publication charges",
+                x: "Discount/waiver on publication charges",
                 y: 36
   },
             {
-                x: "Reviewer web badges that you could include on your LinkedIn site/online resume, etc.",
+                x: "Reviewer web badges ",
                 y: 43
   },
             {
-                x: "Access to papers which I have reviewed, if accepted and published",
+                x: "Post-pub access to papers reviewed",
                 y: 61
   },
             {
@@ -473,31 +473,31 @@ var dataset = [
                 y: 83
   },
             {
-                x: "Reviewer of the year awards from the journal",
+                x: "Reviewer of the year award",
                 y: 50
   },
             {
-                x: "'Top reviewer' badges that you could include on your LinkedIn site/online resume, etc.",
+                x: "'Top reviewer' web badges",
                 y: 48
   },
             {
-                x: "Feedback from the journal on the usefulness/quality of your review",
+                x: "Ed. Feedback on quality of review",
                 y: 96
   },
             {
-                x: "Information from the journal on the decision outcome of the paper that you reviewed",
+                x: "Info on final decision for reviewed paper",
                 y: 90
   },
             {
-                x: "Visibility of other reviewers comments/reviewer reports",
+                x: "Visibility of other reviewer reports",
                 y: 78
   },
             {
-                x: "Metrics related to your review history",
+                x: "Review history metrics",
                 y: 51
   },
             {
-                x: "Post-publication metrics related to the articles you have reviewed",
+                x: "Post-pub metrics for reviewed articles",
                 y: 56
   }],
 },
@@ -509,7 +509,7 @@ var dataset = [
                 y: 10
   },
             {
-                x: "Signed report being publicized with the paper",
+                x: "Signed report publicized with paper",
                 y: 4
   },
             {
@@ -517,11 +517,11 @@ var dataset = [
                 y: 19
   },
             {
-                x: "Acknowledgement on the journal's website",
+                x: "Acknowledgement on journal's website",
                 y: 20
   },
             {
-                x: "A personal thank you note from the editor",
+                x: "Thankyou note from editor",
                 y: 17
   },
             {
@@ -529,11 +529,11 @@ var dataset = [
                 y: 7
   },
             {
-                x: "Credit automatically awarded on a 3rd party site",
+                x: "Credit on 3rd party site",
                 y: 10
   },
             {
-                x: "A certificate from the journal to acknowledge review effort",
+                x: "Certificate from  journal",
                 y: 24
   },
             {
@@ -541,11 +541,11 @@ var dataset = [
                 y: 3
   },
             {
-                x: "Cash payment by the journal",
+                x: "Cash payment",
                 y: 8
   },
             {
-                x: "Payment or credits by independent/portable peer review services",
+                x: "Payment/credit by 3rd party review service",
                 y: 3
   },
             {
@@ -557,15 +557,15 @@ var dataset = [
                 y: 8
   },
             {
-                x: "Discount/waiver on color or other publication charges",
+                x: "Discount/waiver on publication charges",
                 y: 9
   },
             {
-                x: "Reviewer web badges that you could include on your LinkedIn site/online resume, etc.",
+                x: "Reviewer web badges ",
                 y: 13
   },
             {
-                x: "Access to papers which I have reviewed, if accepted and published",
+                x: "Post-pub access to papers reviewed",
                 y: 12
   },
             {
@@ -573,31 +573,31 @@ var dataset = [
                 y: 27
   },
             {
-                x: "Reviewer of the year awards from the journal",
+                x: "Reviewer of the year award",
                 y: 11
   },
             {
-                x: "'Top reviewer' badges that you could include on your LinkedIn site/online resume, etc.",
+                x: "'Top reviewer' web badges",
                 y: 17
   },
             {
-                x: "Feedback from the journal on the usefulness/quality of your review",
+                x: "Ed. Feedback on quality of review",
                 y: 26
   },
             {
-                x: "Information from the journal on the decision outcome of the paper that you reviewed",
+                x: "Info on final decision for reviewed paper",
                 y: 22
   },
             {
-                x: "Visibility of other reviewers comments/reviewer reports",
+                x: "Visibility of other reviewer reports",
                 y: 15
   },
             {
-                x: "Metrics related to your review history",
+                x: "Review history metrics",
                 y: 11
   },
             {
-                x: "Post-publication metrics related to the articles you have reviewed",
+                x: "Post-pub metrics for reviewed articles",
                 y: 11
   }],
 }
@@ -615,7 +615,7 @@ nv.addGraph(function () {
             top: 30,
             right: 20,
             bottom: 0,
-            left: 400
+            left: 280
         });
 
     chart.legend.vers('furious');
@@ -625,7 +625,7 @@ nv.addGraph(function () {
 
     chart.yAxis
         .tickFormat(d3.format(',1f'))
-        .axisLabel('Mean response');
+        .axisLabel('Responses');
 
     d3.select('#chart1 svg')
         .datum(dataset)

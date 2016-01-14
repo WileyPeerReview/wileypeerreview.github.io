@@ -3998,6 +3998,15 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   float: left;
   margin-bottom: -1px; }
 
+.nav-tabs > li > span {
+  margin-right: 2px;
+  line-height: 1.5;
+  border: 1px solid transparent;
+  border-radius: 0 0 0 0;
+  position: relative;
+  display: block;
+  padding: 10px 15px; }
+
 .nav-tabs > li > a {
   margin-right: 2px;
   line-height: 1.5;
