@@ -161,7 +161,7 @@ nv.addGraph(function () {
         .rotateLabels(-45) //Angle to rotate x-axis labels.
         .showControls(true) //Allow user to switch between 'Grouped' and 'Stacked' mode.
         .groupSpacing(0.2) //Distance between each group of bars.
-        .color(["#F2BA49","#BCADE2","#A0C7E5","#C6DE8C","#D22938","#B1D8CF"])
+        .color(["#F2BA49", "#855199", "#648FD8", "#92CB9C", "#D22938", "#075B81"])
         .height(600)
         .margin({
             top: 0,
