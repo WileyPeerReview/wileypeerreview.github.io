@@ -6709,18 +6709,20 @@ body {
       clear: both; }
     .footer--product .footer--product__content .footer--product__col {
       text-align: center; }
-      .footer--product .footer--product__content .footer--product__col span {
+      .footer--product .footer--product__content .footer--product__col .footer__site-title {
         display: inline-block;
         margin-bottom: 1rem; }
       .footer--product .footer--product__content .footer--product__col ul {
         margin-top: 0;
         padding: 0;
-        list-style: none;
-        color: #00A3B2; }
-        .footer--product .footer--product__content .footer--product__col ul li {
-          font-weight: 600; }
-          .footer--product .footer--product__content .footer--product__col ul li a {
-            cursor: pointer; }
+        list-style: none; }
+        .footer--product .footer--product__content .footer--product__col ul li .footer__link-heading {
+          font-weight: 400;
+          text-transform: uppercase; }
+        .footer--product .footer--product__content .footer--product__col ul li .footer__link {
+          font-weight: 600;
+          cursor: pointer;
+          color: #00A3B2; }
       @media (min-width: 37.5em) {
         .footer--product .footer--product__content .footer--product__col {
           text-align: left; }
