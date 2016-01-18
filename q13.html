@@ -11,86 +11,100 @@
     <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
     <script src="scripts/bootstrap/bootstrap.min.js"></script>
     <script src="http://d3js.org/d3.v3.min.js"></script>
+
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-72530577-1', 'auto');
+        ga('send', 'pageview');
+    </script>
 </head>
 
 <body>
     <div class="wrapper">
         <div class="header-container">
-            <div class="header">
-                <nav class="navbar navbar-inverse navbar-dataviz">
-                    <div class="container-fluid">
-                        <!-- Brand and toggle get grouped for better mobile display -->
-                        <div class="navbar-header">
-                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-                                <span class="sr-only">Toggle navigation</span>
-                                <span class="icon-bar"></span>
-                                <span class="icon-bar"></span>
-                                <span class="icon-bar"></span>
-                            </button>
-                            <a class="navbar-brand" href="/index.html">Wiley Peer Reviewer Study 2015</a>
-                        </div>
-        
-                        <!-- Collect the nav links, forms, and other content for toggling -->
-                        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                            <ul class="nav navbar-nav navbar-right">
-                                <li><a href="/index.html">Overview</a></li>
-                                <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Questions <span class="caret"></span></a>
-                                    <ul class="dropdown-menu pr__dropdown-menu">                                
-                                        <li><a href="/q5.html">Routes to becoming a peer reviewer</a></li>
-                                        <li role="separator" class="divider"></li>
-                                        <li><a href="/q9.html">Reasons for becoming a peer reviewer</a></li>
-                                        <li role="separator" class="divider"></li>
-                                        <li><a href="/q13.html">Impact of peer review model on decision to review</a></li>
-                                        <li role="separator" class="divider"></li>
-                                        <li><a href="/q14-place-of-work.html">Reward & recognition preference: Place of work</a></li>
-                                        <li><a href="/q14-experience.html">Reward & recognition preference: Years of experience</a></li>
-                                        <li><a href="/q14-discipline.html">Reward & recognition preference: Discipline</a></li>
-                                        <li><a href="/q14-region.html">Reward & recognition preference: Region</a></li>
-                                        <li role="separator" class="divider"></li>
-                                        <li><a href="/q27.html">Demand for peer reviewer training</a></li>
-                                        <li role="separator" class="divider"></li>
-                                        <li><a href="/q28-place-of-work.html">Specific reviewer training needs: Place of work</a></li>
-                                        <li><a href="/q28-experience.html">Specific reviewer training needs: Years of experience</a></li>
-                                        <li><a href="/q28-discipline.html">Specific reviewer training needs: Discipline</a></li>
-                                        <li><a href="/q28-region.html">Specific reviewer training needs: Region</a></li>
-                                    </ul>
-                                </li>
+    <div class="header">
+        <nav class="navbar navbar-inverse navbar-dataviz">
+            <div class="container-fluid">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="/index.html">Wiley Peer Reviewer Study 2015</a>
+                </div>
+
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href="/index.html">Overview</a></li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Questions <span class="caret"></span></a>
+                            <ul class="dropdown-menu pr__dropdown-menu">                                
+                                <li><a href="/q5.html">Routes to becoming a peer reviewer</a></li>
+                                <li role="separator" class="divider"></li>
+                                <li><a href="/q9.html">Reasons for becoming a peer reviewer</a></li>
+                                <li role="separator" class="divider"></li>
+                                <li><a href="/q13.html">Impact of peer review model on decision to review</a></li>
+                                <li role="separator" class="divider"></li>
+                                <li><a href="/q14-place-of-work.html">Reward & recognition preference: Place of work</a></li>
+                                <li><a href="/q14-experience.html">Reward & recognition preference: Years of experience</a></li>
+                                <li><a href="/q14-discipline.html">Reward & recognition preference: Discipline</a></li>
+                                <li><a href="/q14-region.html">Reward & recognition preference: Region</a></li>
+                                <li role="separator" class="divider"></li>
+                                <li><a href="/q27.html">Demand for peer reviewer training</a></li>
+                                <li role="separator" class="divider"></li>
+                                <li><a href="/q28-place-of-work.html">Specific reviewer training needs: Place of work</a></li>
+                                <li><a href="/q28-experience.html">Specific reviewer training needs: Years of experience</a></li>
+                                <li><a href="/q28-discipline.html">Specific reviewer training needs: Discipline</a></li>
+                                <li><a href="/q28-region.html">Specific reviewer training needs: Region</a></li>
                             </ul>
-                        </div>
-                        <!-- /.navbar-collapse -->
-                    </div>
-                    <!-- /.container-fluid -->
-                </nav>
+                        </li>
+                    </ul>
+                </div>
+                <!-- /.navbar-collapse -->
             </div>
-        </div>        <div class="subheader-container">
+            <!-- /.container-fluid -->
+        </nav>
+    </div>
+</div> 
+        <div class="subheader-container">
             <div class="subheader">Impact of peer review types on invitation to review acceptance</div>
         </div>
-        <div class="content">
-            
-            
-            
-            <h4>How likely are you to accept an invitation to review for a journal that uses the following types of peer review?</h4>
-            <span>On a scale of 1-5 (5 being very likely)</span>
-            <hr>
-            <h6 class="text-right">According to age of respondent</h6>
-            <div id="chart1">
-                <svg style="height:700px"></svg>
-            </div>
-            
-            <script src="/scripts/nvd3/nv.d3.js"></script>
-            <script src="/scripts/q13/q13.js"></script>
-            
-            <h6 class="text-right">total respondents: <strong>2553</strong></h6>
-            
-            <br>
-            
-            <a class="btn btn-default" style="float:left" href="/q9.html"><span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span> Previous Question</a>
-            <a class="btn btn-default" style="float:right" href="/q14-place-of-work.html">Next Question <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span></a>            
-            
-            
-        </div>
         
+        <div class="content">
+                <h4>How likely are you to accept an invitation to review for a journal that uses the following types of peer review?</h4>
+<span>On a scale of 1-5 (5 being very likely)</span>
+<hr>
+<h6 class="text-right">According to age of respondent</h6>
+<div id="chart1">
+    <svg style="height:700px"></svg>
+</div>
+
+<script src="/scripts/nvd3/nv.d3.js"></script>
+<script src="/scripts/q13/q13.js"></script>
+
+<h6 class="text-right">total respondents: <strong>2553</strong></h6>
+
+<br>
+
+<a class="btn btn-default" style="float:left" href="/q9.html"><span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span> Previous Question</a>
+<a class="btn btn-default" style="float:right" href="/q14-place-of-work.html">Next Question <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span></a>          
+        </div>
+
         <div class="footer-container">
             <div class="footer--product">
                 <div class="footer--product__content">
